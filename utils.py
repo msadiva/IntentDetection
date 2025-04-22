@@ -4,8 +4,6 @@ import joblib
 import openai
 import numpy as np
 
-print(np.__version__)
-
 load_dotenv()
 
 
